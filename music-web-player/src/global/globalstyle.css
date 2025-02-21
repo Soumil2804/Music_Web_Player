@@ -1,0 +1,29 @@
+.screen-container {
+    width: calc(100% - 100px);
+    height: 100%;
+    
+    border-radius: 30px;
+    
+    
+  
+    
+    background-color: rgb(10, 124, 124) o !important;
+opacity: 1;
+background-image: radial-gradient(circle at center center, #70597f, #04384a)
+
+  }
+/* 
+
+  .screen-container {
+    width: calc(100% - 100px);
+    height: 100%;
+    border-radius: 30px;
+    
+    opacity: 1;
+    background-image: url('https://cdn.pixabay.com/photo/2018/12/21/20/17/instrument-3888684_1280.png');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-blend-mode: multiply !important;
+    
+} */
