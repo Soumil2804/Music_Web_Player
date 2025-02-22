@@ -104,9 +104,9 @@ A music streaming web application created as a minor project using **React, Spri
 
 ## Screenshots
 **Search Screen**
-Uploading 396579981-f16d338f-360a-4ec9-b9e4-c1ee10d805e1.mp4…
+https://github.com/user-attachments/assets/43f79f16-3748-4457-9d3d-4bb0ea210f7d
 _Search for songs, view recent searches, and play songs directly._
-
+  
 ## Future Enhancements
 - Implement a queue system for managing song playback.
 - Add user authentication and personalized playlists.
