@@ -104,6 +104,7 @@ A music streaming web application created as a minor project using **React, Spri
 
 ## Screenshots
 **Search Screen**
+Uploading 396579981-f16d338f-360a-4ec9-b9e4-c1ee10d805e1.mp4…
 _Search for songs, view recent searches, and play songs directly._
 
 ## Future Enhancements
